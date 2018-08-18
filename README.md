@@ -4,7 +4,7 @@
 
 --upload a demo(socket_p2p_chat) to achieve p2p chat
 
---./server <port>
+--./server < -port- >
   
---./client <ip> <port>
+--./client < -ip- > < -port- >
   
